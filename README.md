@@ -10,7 +10,7 @@
   </a>
 
   <br>
-  
+  [![Run on Repl.it](https://repl.it/badge/github/neutr0/modmail)](https://repl.it/github/neutr0/modmail)
   <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/modmail">
     <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
   </a>
